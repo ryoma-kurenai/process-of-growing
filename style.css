@@ -152,7 +152,7 @@ li {
 
 .keyVisual {
   position: relative;
-  background-image: url(/img/kv.jpg);
+  background-image: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/kv.jpg?raw=true);
   background-position: center right;
   background-repeat: no-repeat;
   width: 100%;
@@ -277,7 +277,7 @@ l-contact {
 }
 
 .application__logo__bg {
-  background-image: url(../../assets/img/application-mac.jpg);
+  background-image: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/application-mac.jpg?raw=true);
   width: 100%;
   height: 580px;
   background-repeat: no-repeat;
@@ -431,7 +431,7 @@ l-contact {
 }
 
 .contact__title__name::after {
-  background: url(../../assets/img/紙とペンのアイコン素材.jpeg);
+  background: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/%E7%B4%99%E3%81%A8%E3%83%9A%E3%83%B3%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90.jpeg?raw=true);
   content: "";
   display: inline-block;
   background-size: cover;
@@ -446,7 +446,7 @@ l-contact {
 }
 
 .contact__title__mail::after {
-  background: url(../../assets/img/メールの無料アイコンその6.jpeg);
+  background: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AE%E7%84%A1%E6%96%99%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%9D%E3%81%AE6.jpeg?raw=true);
   content: "";
   display: inline-block;
   background-size: cover;
@@ -461,7 +461,7 @@ l-contact {
 }
 
 .contact__title__tel::after {
-  background: url(../../assets/img/コーリングアイコン.jpeg);
+  background: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.jpeg?raw=true);
   content: "";
   display: inline-block;
   background-size: cover;
@@ -476,7 +476,7 @@ l-contact {
 }
 
 .contact__title__contacts::after {
-  background: url(../../assets/img/コメントアイコン7.jpeg);
+  background: url(https://github.com/ryoma-kurenai/process-of-growing/blob/main/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B37.jpeg?raw=true);
   content: "";
   display: inline-block;
   background-size: cover;
