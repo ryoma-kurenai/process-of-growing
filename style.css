@@ -408,10 +408,10 @@ l-contact {
   border: 2px solid;
 }
 
-.card__list h3 a{
-   text-decoration: none;
-   color: #000;
-}   
+h3 a{
+  text-decoration: none;
+  color: #000;
+}
 
 .card__img img {
   display: block;
