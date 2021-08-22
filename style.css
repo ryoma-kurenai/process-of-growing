@@ -815,14 +815,14 @@ l-faq {
   right: 24px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(../../assets/img/faq_off.svg) no-repeat 50%;
+  background: url(https://raw.githubusercontent.com/ryoma-kurenai/process-of-growing/394184e7a635fedf1819aaba2e77a51cb54721c1/faq_off.svg) no-repeat 50%;
   background-size: contain;
   width: 25px;
   height: 25px;
 }
 
 .faq-checkbox:checked + .faq-label::after {
-  background: url(../../assets/img/faq_on.svg) no-repeat 50%;
+  background: url(https://raw.githubusercontent.com/ryoma-kurenai/process-of-growing/394184e7a635fedf1819aaba2e77a51cb54721c1/faq_on.svg) no-repeat 50%;
   background-size: contain;
 }
 
